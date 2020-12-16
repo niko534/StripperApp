@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Notification/on</title>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-337.000000, -50.000000)">
+            <g id="Icons/Notification/on" transform="translate(337.000000, 50.000000)">
+                <path d="M2.98960856e-13,-7.62057084e-14 L65.34,-7.62057084e-14 L65.34,65.34 L2.98960856e-13,65.34 L2.98960856e-13,-7.62057084e-14 Z" id="Rectangle-Copy"></path>
+                <rect id="Rectangle-Copy-2" x="4.62" y="5.28" width="55.11" height="55.11"></rect>
+                <rect id="Rectangle-Copy-3" x="10.89" y="11.55" width="42.9" height="42.9"></rect>
+                <g id="bell" transform="translate(20.450000, 20.450000)">
+                    <path d="M11.6091369,0 C15.9850339,0 19.5477425,3.48167347 19.678194,7.82595174 L19.6818949,8.07275795 C19.6818949,11.5200654 20.3054311,14.118133 21.3279799,15.9928059 C21.6729027,16.6251643 22.0360741,17.1214985 22.3916673,17.4968469 L22.5442156,17.651436 C22.658076,17.7616963 22.7375069,17.8261998 22.772974,17.8498446 C23.5632817,18.3767164 23.2368253,19.5804119 22.3340795,19.6758645 L22.2182738,19.6818949 L1,19.6818949 C0.0501683594,19.6818949 -0.34589362,18.4992742 0.352288725,17.9190995 L0.508352806,17.8015452 C0.577465479,17.7444297 0.686728168,17.6444963 0.826606531,17.4968469 C1.18219975,17.1214985 1.54537114,16.6251643 1.89029391,15.9928059 C2.86838409,14.1996406 3.48140415,11.7446168 3.5328613,8.51760098 L3.53637897,8.07275795 C3.53637897,3.61429684 7.15067582,0 11.6091369,0 Z" id="Path" fill="#7356BF" fill-rule="nonzero"></path>
+                    <path d="M13.6484488,23.3970668 C13.2266793,24.1241515 12.4496972,24.5716825 11.6091369,24.5716825 C10.7685766,24.5716825 9.99159454,24.1241515 9.56982505,23.3970668" id="bell-path" stroke="#7356BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+                <g id="rings" transform="translate(14.500000, 24.598842)" stroke="#7356BF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4">
+                    <g id="right-ring" transform="translate(29.900000, 0.000000)">
+                        <path d="M-1.3995294,6.95027169 C1.66121372,4.34990944 6.10593925,4.34990944 9.16668237,6.95027169" id="rightringpath02" transform="translate(3.883576, 5.975136) scale(-1, 1) rotate(-90.000000) translate(-3.883576, -5.975136) "></path>
+                        <path d="M-2,6.42574573 C-0.438461928,5.29416054 1.6540281,5.29416054 3.21556618,6.42574573" id="rightringpath01" transform="translate(0.607783, 6.001401) scale(-1, 1) rotate(-90.000000) translate(-0.607783, -6.001401) "></path>
+                    </g>
+                    <g id="left-ring">
+                        <path d="M-4,6.95027169 C-0.939256882,4.34990944 3.50546865,4.34990944 6.56621176,6.95027169" id="leftringpath01" transform="translate(1.283106, 5.975136) rotate(-90.000000) translate(-1.283106, -5.975136) "></path>
+                        <path d="M1.95111619,6.42574573 C3.51265426,5.29416054 5.60514429,5.29416054 7.16668237,6.42574573" id="leftringpath02" transform="translate(4.558899, 6.001401) rotate(-90.000000) translate(-4.558899, -6.001401) "></path>
+                    </g>
+                </g>
+                <g id="redbublle" transform="translate(29.713653, 12.000000)" fill="#D44333" stroke="#FFFFFF" stroke-width="2">
+                    <circle id="redbubble" cx="10.0058824" cy="10.0058824" r="9.00588235"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

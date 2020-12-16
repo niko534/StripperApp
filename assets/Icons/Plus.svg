@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Plus</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button/Join" transform="translate(-18.000000, -15.000000)">
+            <g id="Plus" transform="translate(18.000000, 15.000000)">
+                <path d="M0,0 L20.79,0 L20.79,20.79 L0,20.79 L0,0 Z" id="plus-grid01"></path>
+                <rect id="plus-grid02" x="1.5015" y="1.7325" width="17.5415625" height="17.5415625"></rect>
+                <rect id="plus-grid03" x="3.465" y="3.696" width="13.6434375" height="13.6434375"></rect>
+                <g id="plus" transform="translate(5.040000, 5.040000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                    <line x1="5.31405019" y1="0" x2="5.31405019" y2="10.6281004" id="plus-path02"></line>
+                    <line x1="0" y1="5.31405019" x2="10.6281004" y2="5.31405019" id="plus-path01"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

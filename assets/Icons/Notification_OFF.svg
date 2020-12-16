@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Notification</title>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/Notification/on" transform="translate(1.000000, 1.000000)">
+            <path d="M2.98960856e-13,-7.62057084e-14 L65.34,-7.62057084e-14 L65.34,65.34 L2.98960856e-13,65.34 L2.98960856e-13,-7.62057084e-14 Z" id="Rectangle-Copy"></path>
+            <rect id="Rectangle-Copy-2" x="4.62" y="5.28" width="55.11" height="55.11"></rect>
+            <rect id="Rectangle-Copy-3" x="10.89" y="11.55" width="42.9" height="42.9"></rect>
+            <g id="bell-copy-2" transform="translate(21.450000, 21.450000)" stroke="#2E224C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M17.6818949,7.07275795 C17.6818949,3.16658159 14.5153133,0 10.6091369,0 C6.70296057,0 3.53637897,3.16658159 3.53637897,7.07275795 C3.53637897,15.3243089 0,17.6818949 0,17.6818949 L21.2182738,17.6818949 C21.2182738,17.6818949 17.6818949,15.3243089 17.6818949,7.07275795" id="Path"></path>
+                <path d="M12.6484488,22.3970668 C12.2266793,23.1241515 11.4496972,23.5716825 10.6091369,23.5716825 C9.76857664,23.5716825 8.99159454,23.1241515 8.56982505,22.3970668" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
